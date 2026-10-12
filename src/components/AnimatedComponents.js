@@ -96,7 +96,7 @@ export const AnimatedStats = () => {
       icon: TrendingUp,
       label: 'Commandes livrées',
       value: counts.orders.toLocaleString(),
-      color: 'text-purple-600'
+      color: 'text-[#1b9abe]'
     },
     {
       icon: Zap,

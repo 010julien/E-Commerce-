@@ -306,7 +306,7 @@ const AuthPage = () => {
         </div>
 
         {/* Prime Benefits */}
-        <div className="card p-6 bg-gradient-to-r from-blue-50 to-purple-50 dark:from-blue-900/20 dark:to-purple-900/20 border-blue-200 dark:border-blue-800">
+        <div className="card p-6 bg-gradient-to-r from-blue-50 to-purple-50 dark:from-blue-900/20 dark:to-[#283d4a]/20 border-blue-200 dark:border-blue-800">
           <div className="flex items-center space-x-3 mb-4">
             <Crown className="h-6 w-6 text-yellow-500" />
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white">

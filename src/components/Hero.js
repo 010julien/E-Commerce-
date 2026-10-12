@@ -110,8 +110,8 @@ const Hero = () => {
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-4">
             {[
               { name: 'Livres', emoji: '📚', color: 'bg-blue-500' },
-              { name: 'Mode', emoji: '👕', color: 'bg-pink-500' },
-              { name: 'High-Tech', emoji: '💻', color: 'bg-purple-500' },
+              { name: 'Mode', emoji: '👕', color: 'bg-[#daf1f4]0' },
+              { name: 'High-Tech', emoji: '💻', color: 'bg-[#daf1f4]0' },
               { name: 'Maison', emoji: '🏠', color: 'bg-green-500' },
               { name: 'Sports', emoji: '⚽', color: 'bg-orange-500' },
               { name: 'Beauté', emoji: '💄', color: 'bg-red-500' },

@@ -312,7 +312,7 @@ const ProductDetail = ({ product }) => {
                 <p className="text-sm font-medium text-gray-900 dark:text-white">Retours 30j</p>
               </div>
               <div className="text-center">
-                <Award className="h-8 w-8 text-purple-600 mx-auto mb-2" />
+                <Award className="h-8 w-8 text-[#1b9abe] mx-auto mb-2" />
                 <p className="text-sm font-medium text-gray-900 dark:text-white">Support 24/7</p>
               </div>
             </div>

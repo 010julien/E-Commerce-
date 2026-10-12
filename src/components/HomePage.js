@@ -43,8 +43,8 @@ const HomePage = () => {
               </div>
             </div>
             <div className="flex items-center space-x-3">
-              <div className="bg-purple-100 dark:bg-purple-900 p-3 rounded-full">
-                <Headphones className="h-6 w-6 text-purple-600" />
+              <div className="bg-[#daf1f4] dark:bg-[#283d4a] p-3 rounded-full">
+                <Headphones className="h-6 w-6 text-[#1b9abe]" />
               </div>
               <div>
                 <h3 className="font-semibold text-gray-900 dark:text-white">Support 24/7</h3>

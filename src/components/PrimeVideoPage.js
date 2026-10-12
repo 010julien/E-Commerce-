@@ -262,7 +262,7 @@ const PrimeVideoPage = () => {
         </section>
 
         {/* Prime Benefits */}
-        <section className="mt-20 bg-gradient-to-r from-blue-900 to-purple-900 rounded-2xl p-8">
+        <section className="mt-20 bg-gradient-to-r from-blue-900 to-[#283d4a] rounded-2xl p-8">
           <div className="text-center max-w-3xl mx-auto">
             <Crown className="h-16 w-16 text-yellow-400 mx-auto mb-6" />
             <h2 className="text-4xl font-bold mb-4">Rejoignez Prime Video</h2>
